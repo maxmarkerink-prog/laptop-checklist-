@@ -1,0 +1,98 @@
+{
+  "id": "mwakztwa",
+  "datum": "2026-11-10T11:10:42.907Z",
+  "toestel": {
+    "serial": "q",
+    "model": "q",
+    "tech": "q",
+    "recipient": "q"
+  },
+  "uitkomst": "niet compleet",
+  "onderdelen": [
+    {
+      "onderdeel": "Scherm",
+      "status": "ok",
+      "opmerking": ""
+    },
+    {
+      "onderdeel": "Toetsenbord",
+      "status": "ok",
+      "opmerking": ""
+    },
+    {
+      "onderdeel": "Touchpad",
+      "status": "ok",
+      "opmerking": ""
+    },
+    {
+      "onderdeel": "Camera",
+      "status": "open",
+      "opmerking": ""
+    },
+    {
+      "onderdeel": "Microfoon",
+      "status": "open",
+      "opmerking": ""
+    },
+    {
+      "onderdeel": "Speakers",
+      "status": "open",
+      "opmerking": ""
+    },
+    {
+      "onderdeel": "Accu en netwerk",
+      "status": "open",
+      "opmerking": ""
+    }
+  ],
+  "toetsenbord": {
+    "getest": 31,
+    "nvt": [],
+    "totaal": 77,
+    "overigeToetsen": []
+  },
+  "touchpad": [
+    "move",
+    "right",
+    "left",
+    "double",
+    "vscroll",
+    "hscroll"
+  ],
+  "visueel": [
+    {
+      "punt": "Behuizing zonder krassen, deuken of barsten",
+      "status": "open"
+    },
+    {
+      "punt": "Scharnieren stevig, scherm blijft in elke stand staan",
+      "status": "open"
+    },
+    {
+      "punt": "Alle USB-poorten herkennen een apparaat",
+      "status": "ok"
+    },
+    {
+      "punt": "Video-uitgang (HDMI of USB-C) geeft beeld",
+      "status": "ok"
+    },
+    {
+      "punt": "Oplader aanwezig, kabel en stekker onbeschadigd",
+      "status": "ok"
+    },
+    {
+      "punt": "Wifi maakt verbinding met het bedrijfsnetwerk",
+      "status": "open"
+    },
+    {
+      "punt": "Bluetooth vindt een apparaat",
+      "status": "open"
+    },
+    {
+      "punt": "Inloggen werkt en updates zijn geïnstalleerd",
+      "status": "open"
+    }
+  ],
+  "visueleOpmerking": "",
+  "opgeslagen": "2026-11-10T11:10:42.909Z"
+}

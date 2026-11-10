@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Laptopcheck</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="rail" aria-label="Onderdelen">
+      <div class="brand">
+        <strong>Laptopcheck</strong>
+        <span id="railDevice">Nog geen toestel ingevuld</span>
+      </div>
+      <ol id="steps" class="steps"></ol>
+      <div class="progress">
+        <div class="bar"><span id="progressFill"></span></div>
+        <span id="progressText"></span>
+      </div>
+    </aside>
+    <main id="main" tabindex="-1"></main>
+  </div>
+  <div id="screenTest" class="screen-test" hidden><p id="screenHint"></p></div>
+  <script src="app.js"></script>
+</body>
+</html>

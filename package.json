@@ -1,0 +1,14 @@
+{
+  "name": "laptopcheck",
+  "version": "1.0.0",
+  "description": "Checklist om laptops te testen voordat ze worden uitgeleverd",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
